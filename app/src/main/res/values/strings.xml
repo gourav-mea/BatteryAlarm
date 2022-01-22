@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BatteryAlarm</string>
+    <string name="charging_100">charging,100%</string>
+</resources>
